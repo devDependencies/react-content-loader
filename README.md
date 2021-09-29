@@ -1,3 +1,5 @@
+加载动画
+
 <p align="center">
   <img width="350" alt="react-content-loader" src="https://user-images.githubusercontent.com/4838076/34419335-5669c3f8-ebea-11e7-9668-c47b7846970b.png"/>
 </p>
